@@ -1,0 +1,7 @@
+{
+    "owner": "ParkerM",
+    "repo": "private-skybot-config-repo",
+    "branch": "master",
+    "config_path": "config.json",
+    "private_token": "myprivatetoken"
+}
